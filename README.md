@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @D-Tenio
+- 👀 I’m interested in growing and pursuing my career in computer science
+- 🌱 I’m currently learning C++ and C#
+- 📫 How to reach me: Phone #: 2817809394
